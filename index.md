@@ -1,6 +1,4 @@
-## Anudeep Arkala
-
-### Professional Synopsis
+## Professional Synopsis
 
 •10+ years of experience in Network Integration and Network Management with strong network implementation and troubleshooting skills.
 
