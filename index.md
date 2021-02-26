@@ -41,7 +41,15 @@ Senior Network Virtualization Engineer March 2017 to Aug 2019
 
 ### Juniper Networks
 
-CFTS Network Engineer
+CFTS Network Engineer 2016-2017
+
+### Hewlett Packard Enterprise
+
+Senior Network Engineer 
+
+### NetEnrich Technologies
+
+Network Engineer
 
 ## Education
 
