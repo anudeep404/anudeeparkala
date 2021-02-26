@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## Anudeep Arkala
 
-You can use the [editor on GitHub](https://github.com/anudeep404/anudeeparkala/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Professional Synopsis
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+•10+ years of experience in Network Integration and Network Management with strong network implementation and troubleshooting skills.
 
-### Markdown
+I love to blog, my work and interests, please check the link below!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://letsnetworkblog.wordpress.com/
 
-```markdown
-Syntax highlighted code block
+•Extensive experience of configuring & maintaining of large to small enterprise networks on emerging technologies.
 
-# Header 1
-## Header 2
-### Header 3
+•Working experience on all well-known Routing & Switching Protocols like RIP v1&v2, EIGRP, OSPF, BGP, VLAN, VTP, STP, HSRP, VRRP and GLBP.
 
-- Bulleted
-- List
+•Working experience of MPLS based networks with knowledge of MPLS VPN concepts.
 
-1. Numbered
-2. List
+•Good understanding of NAT, PAT, VPN, IPsec, site-to-site VPN Concepts.
 
-**Bold** and _Italic_ and `Code` text
+•Hands on experience with Cisco 2500, 2600, 2800, 3600, series Routers and Cisco 2900, 3500, 3700 and 4500, series switches and Juniper SSGs, Brocade l2 switches and HP A- Series, HP E-Series wired/wireless products.
 
-[Link](url) and ![Image](src)
-```
+•Troubleshoot various issues relating to adjacencies in OSPF, advertising of networks in Border routers through BGP, fine-tuning network parameters for efficient convergence and uptime
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+•Understanding on Cisco ASA 5500 series.
 
-### Jekyll Themes
+•Extensive hands on experience with CatOS and Cisco IOS Comprehensive understanding of networking concepts for LAN, WAN protocols, Networking devices administration and maintenance in multi-platform environments.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anudeep404/anudeeparkala/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+•In-depth knowledge and hands-on experience on IP Addressing, Subnet, VLSM, and ARP, reverse and proxy ARP, Ping concepts.
 
-### Support or Contact
+•Maintaining and updating inventory of all network hardware, Management and Monitoring by use of SSH, Syslog, SNMP, NTP.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+•IOS upgrades on routers and switches and Installation of SDM. Experience in loading the routers with CISCO IOS from TFTP and vice versa.
+
+•Have an extensive knowledge of working and security aspects of OSI and TCP/IP stacks.
+•Have research experience on HP SDN, modules like Mininet.
+
+
+## Work Experience
+
+### VMware Software India Pvt Ltd
+VMC NSX Site Reliability Engineer Sept 2019 to Present
+
+Senior Network Virtualization Engineer March 2017 to Aug 2019
+
+### Juniper Networks
+
+CFTS Network Engineer
+
+## Education
+
+B.Tech in Electrical and Communication Engineering from JNTU
+
