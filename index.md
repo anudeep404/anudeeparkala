@@ -4,7 +4,7 @@
 
 I love to blog, my work and interests, please check the link below!
 
-https://letsnetworkblog.wordpress.com/
+[MyBlog](https://letsnetworkblog.wordpress.com)
 
 •Extensive experience of configuring & maintaining of large to small enterprise networks on emerging technologies.
 
